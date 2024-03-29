@@ -1,5 +1,5 @@
 {
-  "name": "@apsknight/jupyterlab_xkcd",
+  "name": "@Rejoan-Sardar/jupyterlab_xkcd",
   "version": "0.1.0",
   "description": "Show a random xkcd.com comic in a JupyterLab panel",
   "keywords": [
@@ -7,9 +7,9 @@
     "jupyter",
     "jupyterlab"
   ],
-  "homepage": "https://github.com/apsknight/jupyterlab_xkcd",
+  "homepage": "https://github.com/Rejoan-Sardar/jupyterlab_xkcd",
   "bugs": {
-    "url": "https://github.com/apsknight/jupyterlab_xkcd/issues"
+    "url": "https://github.com/Rejoan-Sardar/jupyterlab_xkcd/issues"
   },
   "license": "MIT",
   "author": "Aman Pratap Singh",
@@ -21,7 +21,7 @@
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apsknight/jupyterlab_xkcd.git.git"
+    "url": "https://github.com/Rejoan-Sardar/jupyterlab_xkcd.git.git"
   },
   "scripts": {
     "build": "tsc",
